@@ -1,64 +1,88 @@
 # Derecho Constitucional Colombiano
 
-Este repositorio reúne una guía básica y ordenada sobre el derecho constitucional colombiano, pensada para estudio, consulta y referencia. Su objetivo es presentar los conceptos fundamentales de la Constitución Política, los derechos fundamentales, la organización del Estado y la justicia constitucional en Colombia.
+Este repositorio está orientado a la investigación académica y la consulta especializada en derecho constitucional colombiano. Su propósito es servir como guía de estudio, referencia documental y base para análisis crítico de la Constitución Política, la organización del Estado, los derechos fundamentales y la jurisprudencia constitucional.
 
-## Contenido
+## Propósito del repositorio
+
+- sistematizar conceptos clave del ordenamiento constitucional colombiano
+- reunir referencias a doctrina, normativa y jurisprudencia
+- apoyar trabajos de investigación, seminarios, ponencias y estudio independiente
+- ofrecer una estructura didáctica y crítica para el análisis del sistema constitucional
+
+## Estructura general
 
 - [Principios y fundamentos de la Constitución](docs/01-principios-y-fundamentos.md)
 - [Derechos fundamentales y garantías](docs/02-derechos-fundamentales.md)
 - [Estado, poder público y organización territorial](docs/03-estado-y-poderes-publicos.md)
 - [Justicia constitucional y control de constitucionalidad](docs/04-justicia-constitucional.md)
 - [Fuentes, jurisprudencia y referencias útiles](docs/05-fuentes-y-referencias.md)
+- [Metodología de investigación en derecho constitucional](docs/06-metodologia-de-investigacion.md)
+- [Casos y jurisprudencia relevante](docs/07-casos-y-jurisprudencia.md)
+- [Bibliografía y fuentes documentales](docs/08-bibliografia-y-fuentes.md)
+- [Temas de investigación sugeridos](docs/09-temas-de-investigacion.md)
 
-## ¿Qué incluye esta guía?
+## Enfoque de investigación
 
-- Panorama general de la Constitución Política de Colombia
-- Principios estructurales del Estado
-- Derechos fundamentales y deberes constitucionales
-- La división y funciones de los poderes públicos
-- El papel de la Corte Constitucional, la Corte Suprema y otras autoridades
-- Referencias a normas, jurisprudencia y documentos clave
+Este repositorio se centra en cuatro ejes fundamentales:
 
-## Objetivo del repositorio
+1. la estructura y legitimidad del poder público
+2. la protección de los derechos fundamentales
+3. la evolución del Estado social de derecho
+4. la aplicación de la jurisprudencia constitucional en casos concretos
 
-Brindar una base clara para:
+## Objetivos de investigación
 
-- estudiantes de derecho
-- docentes y tutores
-- investigadores
-- personas interesadas en la estructura constitucional colombiana
+- analizar la relación entre Constitución, democracia y derechos humanos
+- estudiar la efectividad de las garantías judiciales
+- evaluar los mecanismos de control de constitucionalidad
+- revisar la organización territorial y la descentralización
+- identificar tensiones entre normas, política y protección de derechos
 
-## Estructura normativa básica
+## Metodología recomendada
 
-La Constitución Política de 1991 es la norma suprema del ordenamiento jurídico colombiano. Se organiza alrededor de:
+Para un trabajo de investigación seria se recomienda:
 
-1. Principios fundamentales
-2. Derechos y deberes de la persona
-3. Organización del Estado
-4. Participación y democracia
-5. Garantías judiciales y control de constitucionalidad
+- distinguir entre norma, doctrina y jurisprudencia
+- identificar la fuente jurídica de cada afirmación
+- contrastar textos constitucionales con decisiones judiciales
+- analizar casos concretos desde una perspectiva dogmática e histórica
+- contextualizar el problema dentro de la evolución social y política colombiana
 
-## Nota
+## Fuentes primarias relevantes
 
-Este material tiene carácter educativo y de referencia. No sustituye la consulta directa de la Constitución, la legislación vigente ni la jurisprudencia aplicable.
+- Constitución Política de Colombia
+- Leyes ordinarias y normas sectoriales
+- sentencias de la Corte Constitucional
+- decisiones de la Corte Suprema de Justicia
+- jurisprudencia del Consejo de Estado
 
-## Recomendación de lectura
+## Fuentes secundarias relevantes
 
-Para un estudio serio, se recomienda complementar este repositorio con:
-
-- la Constitución Política de Colombia
-- el Código Civil
-- la Ley 1437 de 2011 (Código de Procedimiento Administrativo y de lo Contencioso Administrativo)
-- sentencias relevantes de la Corte Constitucional
 - doctrina constitucional colombiana
+- manuales de derecho público
+- tratados de derechos fundamentales
+- artículos de revistas jurídicas
+- investigaciones académicas y tesis universitarias
 
-## Enlaces útiles
+## Preguntas de investigación orientadoras
+
+- ¿Cómo ha evolucionado la protección de los derechos fundamentales en Colombia?
+- ¿Qué papel tiene la jurisprudencia constitucional en la construcción del Estado social de derecho?
+- ¿Cómo se articula la descentralización territorial con la igualdad y la garantía de derechos?
+- ¿Qué desafíos enfrenta el control de constitucionalidad en contextos de conflicto político o social?
+- ¿Cómo inciden las decisiones judiciales en la transformación del ordenamiento constitucional?
+
+## Nota metodológica
+
+Este material es de carácter académico y documental. No sustituye la consulta de fuentes oficiales ni la asesoría jurídica especializada. Su finalidad es apoyar la investigación, la lectura crítica y la comprensión del sistema constitucional colombiano.
+
+## Referencias institucionales
 
 - [Constitución Política de Colombia](https://www.constitucioncolombia.com/)
 - [Corte Constitucional de Colombia](https://www.corteconstitucional.gov.co/)
 - [Congreso de la República de Colombia](https://www.congreso.gov.co/)
 - [Suprema Corte de Justicia](https://www.cortesuprema.gov.co/)
 
-## Licencia
+## Licencia y uso
 
-Este repositorio se ofrece con fines educativos y de estudio. Puedes reutilizarlo y adaptarlo, siempre citando la fuente original.
+Este repositorio puede reutilizarse para fines académicos, de investigación y de estudio. Se recomienda citar la fuente y la fecha de consulta de cada documento.
